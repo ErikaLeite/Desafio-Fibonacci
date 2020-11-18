@@ -1,0 +1,13 @@
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.exe
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.deps.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.runtimeconfig.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.runtimeconfig.dev.json
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\bin\Debug\netcoreapp3.1\Desafio-Fibonacci.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.csprojAssemblyReference.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.AssemblyInfoInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.AssemblyInfo.cs
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.dll
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.pdb
+C:\Users\erika\Desktop\PROJETOS SENAI\Back-End\Desafio-Fibonacci\obj\Debug\netcoreapp3.1\Desafio-Fibonacci.genruntimeconfig.cache
